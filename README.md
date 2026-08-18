@@ -1541,12 +1541,3 @@ Before public disclosure or commercial demonstration, the inventor should consid
 
 ---
 
-## Key Inventive Concept for Further Development
-
-The strongest feature to investigate is the deliberate separation of **physical electricity flow** from the **authorised domestic energy allocation**.
-
-The central concept is:
-
-> **An authenticated energy-management system that associates a geographically remote EV charging transaction with an authorised domestic energy resource, determines a permitted energy allocation from that resource, issues a scoped charging authorisation to the remote charging station, and reconciles measured energy delivered at the remote station against the allocation.**
-
-This should be the primary focus of subsequent prior-art research and claim development.
