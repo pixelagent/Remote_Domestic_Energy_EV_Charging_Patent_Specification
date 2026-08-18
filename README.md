@@ -1,0 +1,1 @@
+# Remote_Domestic_Energy_EV_Charging_Patent_Specification
