@@ -1,4 +1,4 @@
-# Patent Pending
+# <span style="color: red;">Patent Pending</span>
 
 # Patent Invention Specification
 
